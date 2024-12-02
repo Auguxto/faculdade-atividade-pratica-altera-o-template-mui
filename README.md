@@ -13,3 +13,9 @@ Projeto criado com as bibliotecas React JS e Material UI.
    `
    npm start
    `
+
+# Alterações Feitas
+
+- Adicionado tema escuro (dark)
+- Implementado um total de tarefas abaixo da tabela
+- Refeito os estados usados no modais usando useReducer ao inves de useState
