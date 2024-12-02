@@ -19,3 +19,5 @@ Projeto criado com as bibliotecas React JS e Material UI.
 - Adicionado tema escuro (dark)
 - Implementado um total de tarefas abaixo da tabela
 - Refeito os estados usados no modais usando useReducer ao inves de useState
+
+  ![image](https://github.com/user-attachments/assets/4fb9dc11-616a-42ed-b442-4e32e1de5cdc)
